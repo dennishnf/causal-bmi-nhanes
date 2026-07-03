@@ -46,6 +46,6 @@ The clearest result is that vigorous activity goes with a BMI about 1.7 points l
 
 I want to be honest about the ceiling here. The data is a single snapshot per person, so for any of these the arrow could point the other way. Heavier people might move less because of their weight rather than the reverse, and no amount of adjusting fixes a backwards arrow. I also didn't apply the survey weights, so the numbers describe this sample and not the whole country. Read every number as a carefully adjusted association that carries a causal reading, not as proven cause. The paper goes into all of this in more detail.
 
-## The paper
+## The paper/report
 
 The full write up is `DennisNunez_CausalBMI.pdf` in this repo. It walks through the graphs, the tables, and the checks with all the figures next to them, so if you want the reasoning rather than the code, start there.
